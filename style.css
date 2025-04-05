@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#myInput {
+    width: 250px;
+    height: 25px;
+    border: 1px solid #000000;
+    margin: 20px;
+    padding: 10px;
+}
+
+#btn {
+    width: 100px;
+    height: 30px;
+    color: #000000;
+    font-weight: bold;
+    background-color: bisque;
+}
